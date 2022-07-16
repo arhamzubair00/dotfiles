@@ -51,7 +51,7 @@
   rebase = false
 [user]
 	email = arhamzubair00@gmail.com
-	name = Arham Zubair
+	name = arham zubair arhamzubair00@gmail.com
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
